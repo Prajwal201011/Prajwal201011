@@ -1,4 +1,4 @@
- # Welcome to My GitHub Profile! 👋
+# Waving Hand Medium Skin Tone Welcome to BamBooScriptor's Coding Forest 👋
 
 ## About Me
 Hey there! I'm a passionate developer with a love for coding, problem-solving, and building cool stuff! I'm currently based in [Your Location] and enjoy diving into various technologies and projects.
@@ -18,7 +18,7 @@ Hey there! I'm a passionate developer with a love for coding, problem-solving, a
 
 ## Projects
 Here are a few projects I'm proud of:
-1. **[Quote-Generator]([link](https://github.com/Prajwal201011/Quote-Generator))**: Tired of searching for quotes on Google ? Then, try our Quote Generator to generate n number of Qoutes with just a single click !!
+1. **[Quote-Generator](https://github.com/Prajwal201011/Quote-Generator)**: Tired of searching for quotes on Google ? Then, try our Quote Generator to generate n number of Qoutes with just a single click !!
 2. **[Project Name 2](link)**: Brief description.
 3. **[Project Name 3](link)**: Brief description.
 
@@ -35,6 +35,7 @@ Feel free to reach out if you have any questions, collaboration ideas, or just w
 ##🎋 Let's Collaborate
 If you love coding (and pandas) as much as I do, let's build something amazing together! Feel free to reach out or contribute to my projects.
 
+[![](https://visitcount.itsvg.in/api?id=Prajwal201011&label=Profile%20Viits&pretty=false)](https://visitcount.itsvg.in)
 
 <!---
 Prajwal201011/Prajwal201011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
