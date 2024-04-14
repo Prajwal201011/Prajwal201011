@@ -8,6 +8,13 @@ Hey there! I'm a passionate developer with a love for coding, problem-solving, a
 |---------|--------|
 | [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,bootstrap,linux,md,git,qt)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mint,windows,github,discord,powershell,idea,vscode,stackoverflow,pycharm)](https://skillicons.dev) |
 
+##🐾 My Coding Journey
+🐾 Started with HTML
+
+🐾 Dabbled in CSS
+
+🐾 Currently unraveling the mysteries of Python & Javascript
+
 
 ## Projects
 Here are a few projects I'm proud of:
