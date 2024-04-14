@@ -1,4 +1,4 @@
-# Waving Hand Medium Skin Tone Welcome to BamBooScriptor's Coding Forest 👋
+# Welcome to BamBooScriptor's Coding Forest 👋
 
 ## About Me
 Hey there! I'm a passionate developer with a love for coding, problem-solving, and building cool stuff! I'm currently based in [Your Location] and enjoy diving into various technologies and projects.
