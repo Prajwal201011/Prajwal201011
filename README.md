@@ -19,7 +19,7 @@ Hey there! I'm a passionate developer with a love for coding, problem-solving, a
 ## Projects
 Here are a few projects I'm proud of:
 1. **[Quote-Generator](https://github.com/Prajwal201011/Quote-Generator)**: Tired of searching for quotes on Google ? Then, try our Quote Generator to generate n number of Qoutes with just a single click !!
-2. **[Project Name 2](link)**: Brief description.
+2. **[Formulite](https://github.com/Prajwal201011/Formulite)**: FormuLight is not just a calculator; it’s a comprehensive guide to mathematical formulas and their applications. This innovative app is designed to help you solve complex problems with ease and understand the logic behind them.
 3. **[Project Name 3](link)**: Brief description.
 
 
